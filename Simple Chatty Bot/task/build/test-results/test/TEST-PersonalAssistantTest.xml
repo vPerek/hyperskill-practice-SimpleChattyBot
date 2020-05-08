@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-08T10:54:12" hostname="MacBook-Pro-Vladyslav.local" time="0.147">
+<testsuite name="PersonalAssistantTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-05-08T11:06:43" hostname="MacBook-Pro-Vladyslav.local" time="0.157">
   <properties/>
-  <testcase name="start" classname="PersonalAssistantTest" time="0.147"/>
+  <testcase name="start" classname="PersonalAssistantTest" time="0.157"/>
   <system-out><![CDATA[?[1;31m
 Start test 1?[0m
 Hello! My name is Aid.
